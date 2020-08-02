@@ -23,7 +23,7 @@ The Food Festival application contains multiple webpacks such as file-loader, we
 ## Deployed Application 
 
 Food Festival Downloadable App
-<img src="./assets/img/main.png alt="mainpage"/>
+<img src="./assets/img/main.jpg alt="mainpage"/>
 
 
 
